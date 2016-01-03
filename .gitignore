@@ -1,0 +1,15 @@
+# IDE files
+.classpath
+.settings
+.project
+.idea
+*.iml
+hs_err_pid*
+target
+out
+# tmp and vim swap files
+*.pyc
+*.tmp
+*.swp
+# C tags
+tags
